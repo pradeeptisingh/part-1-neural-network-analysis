@@ -4,6 +4,10 @@
 
 This project builds and evaluates a feed-forward neural network for a binary classification task: predicting customer churn. The notebook uses TensorFlow/Keras.
 
+## Data Source
+
+Dataset source: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 Dataset: `customer_churn_nn.csv`  
 Target variable: `churn` (`1` = churned, `0` = retained)
 
